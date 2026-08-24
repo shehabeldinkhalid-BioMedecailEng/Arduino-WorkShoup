@@ -84,7 +84,7 @@ An analog input signal is calibrated against a user-entered reference value (rea
 **Files:** `fabulous_hango1.ino`
 Reads the X and Y axes plus the push-button of an analog joystick module, converts the raw analog readings into a normalized position range (–10 to 10), and prints everything to the Serial Monitor — a foundational test sketch for joystick-controlled projects.
 
-### 11. Blink + Tone Training Sketch![Uploading Capture9.JPG…]()
+### 11. Blink + Tone Training Sketch
 
 **Files:** `training_21.ino`
 An introductory exercise combining two outputs: an LED that alternates with a buzzer tone, used to practice coordinating multiple `digitalWrite()`/`tone()` calls on different pins within a single loop.
