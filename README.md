@@ -79,7 +79,6 @@ An analog input signal is calibrated against a user-entered reference value (rea
 
 <img width="466" height="830" alt="Capture3" src="https://github.com/user-attachments/assets/a2b75bbc-f43d-4423-b87f-28853b67aa9d" />
 
-<img width="1393" height="646" alt="Capture9" src="https://github.com/user-attachments/assets/766b7e28-04db-4213-8d28-f6597f0a51c8" />
 
 ### 10. Joystick Module Test
 **Files:** `fabulous_hango1.ino`
@@ -89,6 +88,8 @@ Reads the X and Y axes plus the push-button of an analog joystick module, conver
 
 **Files:** `training_21.ino`
 An introductory exercise combining two outputs: an LED that alternates with a buzzer tone, used to practice coordinating multiple `digitalWrite()`/`tone()` calls on different pins within a single loop.
+
+<img width="1393" height="646" alt="Capture9" src="https://github.com/user-attachments/assets/db2f2778-a8c8-42ac-b9e4-7f504ac6f2da" />
 
 ---
 
