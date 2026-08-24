@@ -36,6 +36,8 @@ Demonstrates using an NPN transistor as a switch/amplifier to drive a load (LED)
 Uses a relay module and a potentiometer/function-generator input to switch a separate circuit on and off. The sketch defines a reusable `Blink(pin, duration, count)` function to generate configurable pulse trains at varying speeds.
 
 <img width="1362" height="823" alt="Capture2" src="https://github.com/user-attachments/assets/d31adfa3-766d-4578-80a4-abe56245ddcc" />
+
+
 <img width="1273" height="819" alt="Capture4" src="https://github.com/user-attachments/assets/1747eb4d-cb83-40b6-b85a-1333fecc04e4" />
 
 ### 5. Fire & Smoke Detector
