@@ -77,6 +77,8 @@ https://github.com/user-attachments/assets/0d7ee465-924b-40f0-84f3-ea8a59a6e8b6
 ### 9. Signal Calibration & Mapping
 **Files:** `معايره (Calibration).pdf`, `map_and_constrain1.ino`
 An analog input signal is calibrated against a user-entered reference value (read via `Serial.parseInt()`), then converted into an audible frequency using `map()` and `constrain()`, with the result played on a piezo buzzer and logged over Serial for debugging.
+
+
 <img width="710" height="743" alt="Capture7" src="https://github.com/user-attachments/assets/1689d9bb-df36-4d42-ad0d-e807dacca718" />
 
 <img width="466" height="830" alt="Capture3" src="https://github.com/user-attachments/assets/a2b75bbc-f43d-4423-b87f-28853b67aa9d" />
