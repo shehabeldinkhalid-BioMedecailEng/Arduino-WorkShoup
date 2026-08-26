@@ -17,6 +17,8 @@ A collection of hands-on Arduino Uno exercises built and simulated in **Tinkerca
 | 9 | [Signal Calibration & Mapping](#9-signal-calibration--mapping) | `map()`, `constrain()`, Serial input, sound feedback |
 | 10 | [Joystick Module Test](#10-joystick-module-test) | Analog joystick (X/Y/switch) reading |
 | 11 | [Blink + Tone Training Sketch](#11-blink--tone-training-sketch) | Combining digital output with `tone()` |
+| 12 | [Master + Slave + Led + Potentimeter](#SPI-Test) | Combining digital output with `<SPI.h>` |
+
 
 ---
 
