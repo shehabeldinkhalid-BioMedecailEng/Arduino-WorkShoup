@@ -97,6 +97,12 @@ An introductory exercise combining two outputs: an LED that alternates with a bu
 
 <img width="1393" height="646" alt="Capture9" src="https://github.com/user-attachments/assets/db2f2778-a8c8-42ac-b9e4-7f504ac6f2da" />
 
+
+### 12. SPI-Test
+<img width="1650" height="1275" alt="Brilliant Waasa_page-0001" src="https://github.com/user-attachments/assets/bb134447-1aae-4a39-9129-1879ca30190c" />
+
+<img width="853" height="704" alt="Capturex" src="https://github.com/user-attachments/assets/d019fe10-c6a1-4a59-b395-88156778852a" />
+
 ---
 
 ## 🛠 Hardware Used
